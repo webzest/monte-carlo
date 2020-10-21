@@ -8,6 +8,7 @@ For this repository, we will simulate a player in a casino with the following od
 </ul>
 
 Also, it is proved that doubling your bet each time is much better chance than doing an aggressive bet.
-made for the article https://www.askpython.com/python/monte-carlo-in-python
+
+made for the article : https://www.askpython.com/python/monte-carlo-in-python
 
 © Arkaprabha Majumdar,2020 (Journal Dev IT)
